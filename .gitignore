@@ -2,3 +2,5 @@ stitch_cafe_forest_floor_website.zip
 temp_zip_dir/
 temp_project.zip
 *.log
+.env
+.env.*
